@@ -11,7 +11,7 @@ temperature = [random.uniform(20, 30)for _ in time]
 plt.plot(time, temperature, marker="o", color="blue")
 plt.title("mock temperature sensor data")
 plt.xlabel("time(s)")
-plt.ylabel("temperture(C)")
+plt.ylabel("temperature(C)")
 plt.grid(True)
 
 # 显示图表
