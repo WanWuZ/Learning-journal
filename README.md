@@ -9,5 +9,5 @@
 ## 当前阶段
 - [x] 注册 GitHub
 - [x] 创建仓库与 README
-- [ ] 跑通最小 Python Demo
+- [x] 跑通最小 Python Demo
 - [ ] 选定方向：机械臂 / RISC-V / 大模型应用
